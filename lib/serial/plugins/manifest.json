@@ -1,0 +1,13 @@
+{
+    "xml": {
+            "module"      : "sxml",
+            "class"       : "XMLParser",
+            "description" : "XML serialiser/deserialiser"
+        },
+
+    "pickle": {
+            "module"      : "spickle",
+            "class"       : "PickleParser",
+            "description" : "cPickle serialiser/deserialiser"
+        }
+}

@@ -1,0 +1,3 @@
+"Guido Rossum", "88 Palo Alto", "776985411"
+"John Smith", "38 Driver Avenue", "091234567"
+"Jane Doe", "17 Waine Street", "0494512390"
